@@ -107,6 +107,9 @@ namespace PortAIO
                     case 1: // BadaoActionsLimiter
                         BadaoActionsLimiter.Program.Main();
                         break;
+                    case 2: // imAsharpHuman Pro
+                        imAsharpHuman Pro.Program.Main();
+                        break;
                 }
             }
 
