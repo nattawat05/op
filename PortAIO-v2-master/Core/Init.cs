@@ -203,11 +203,6 @@ namespace PortAIO
                 BasicChatBlock.Program.Main();
             }
 
-            if (Misc.menu.Item("imAsharpHuman Pro").GetValue<bool>())
-            {
-                imAsharpHuman Pro.Program.Main();
-            }
-          
             if (Misc.menu.Item("CSCounter").GetValue<bool>())
             {
                 CS_Counter.CsCounter.Main();
