@@ -104,10 +104,7 @@ namespace PortAIO
                     case 0: // Humanizer#
                         HumanizerSharp.Program.Game_OnGameLoad();
                         break;
-                    case 1: // BadaoActionsLimiter
-                        BadaoActionsLimiter.Program.Main();
-                        break;
-                    case 2: // imAsharpHuman Pro
+                    case 1: // imAsharpHuman Pro
                         imAsharpHuman Pro.Program.Main();
                         break;
                 }
